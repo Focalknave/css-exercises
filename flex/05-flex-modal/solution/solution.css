@@ -58,7 +58,7 @@ button {
 
 button.continue {
   background: royalblue;
-  border: 1px solid royalblue;
+  border: 1px,solid royalblue;
   color: white;
 }
 
